@@ -1,4 +1,4 @@
-# ![](README_IMG\main_img.png)
+# ![](README_IMG/main_img.png)
 
 ## WHAT  TO  DO
 
@@ -18,16 +18,15 @@
 
 
 사용법 GIF:
-
-![](README_IMG\HOW_TO_DO.gif)
+![](README_IMG/HOW_TO_DO.gif)
 
 
 
 몇가지 스크린샷
 
-![](README_IMG\Screenshot1.png)
+![](README_IMG/Screenshot1.png)
 
-![](README_IMG\Screenshot2.png)
+![](README_IMG/Screenshot2.png)
 
-![](README_IMG\Screenshot3.png)
+![](README_IMG/Screenshot3.png)
 
