@@ -1,4 +1,4 @@
-# ![그래픽이미지_그림판](C:\Users\smile\Desktop\그래픽이미지_그림판.png)
+# ![](README_IMG\main_img.png)
 
 ## WHAT  TO  DO
 
@@ -19,15 +19,15 @@
 
 사용법 GIF:
 
-![HD20230726_215537](C:\Users\smile\Downloads\HD20230726_215537.gif)
+![](README_IMG\HOW_TO_DO.gif)
 
 
 
 몇가지 스크린샷
 
-![Screenshot_20230726-215738](C:\Users\smile\Downloads\6_Screenshot_20230726-215808.png_230726\Screenshot_20230726-215738.png)
+![](README_IMG\Screenshot1.png)
 
-![Screenshot_20230726-215808](C:\Users\smile\Downloads\6_Screenshot_20230726-215808.png_230726\Screenshot_20230726-215808.png)
+![](README_IMG\Screenshot2.png)
 
-![Screenshot_20230726-215748](C:\Users\smile\Downloads\6_Screenshot_20230726-215808.png_230726\Screenshot_20230726-215748.png)
+![](README_IMG\Screenshot3.png)
 
